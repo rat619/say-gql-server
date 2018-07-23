@@ -27,15 +27,11 @@ Create the class  :
 
 1) sequelize model:create --attributes "email:string username:string password:string bio:string isAdmin:boolean" -- name User
 
-2) sequelize model:create --attributes "idUSERS:integer title:string content:string attachement:string likes:integer" --name Message
+2) Create the db
 
-3) Create the db
+3) Run the command : sequelize db:migrate
 
-4) Run the command : sequelize db:migrate
-
-5) Go to workbench, database => reverse engineer => Click Execute
-
-(virtualbox, ubuntu server)
+4) Go to workbench, database => reverse engineer => Click Execute
 
 
   
