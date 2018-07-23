@@ -8,6 +8,9 @@ Install Git sur https://git-scm.com/downloads
 
 Clone or download github project 
 
+-- Modules installed: express, express-graphql, graphql , bcrypt, lodash, ... 
+
+
 Install Nodemon (with administrator rights) by :  npm install -g nodemon
 
 Run the command : nodemon server.js
